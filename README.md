@@ -1,4 +1,11 @@
-### Hi there 👋
+About me 🐱‍👤
+
+Junior Backend Developer
+
+- I'm interested in AI and Machine Lerning so I'm currently learning Python.
+- I've worked in a few projects so far so I have some experience with websites.
+- I’m looking to collaborate on any projects that might need help in HTML, Python or PHP.
+- I'm an eager programmer so I'll always do my best in any project I work in
 
 <!--
 **AnibalSJ/AnibalSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

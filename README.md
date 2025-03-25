@@ -1,6 +1,6 @@
 About me 🐱‍👤
 
-Junior Full Stack Developer
+Junior Backend Developer
 
 - I'm interested in AI and Machine Lerning so I'm currently learning Python.
 - I've worked in a few projects so far so I have experience in backend and fronted development.

@@ -1,11 +1,9 @@
 About me 🐱‍👤
 
-Junior Backend Developer
-
-- I'm interested in AI and Machine Learning, so I'm currently learning Python.
-- I've worked on a few projects so far, so I have experience in backend and frontend development.
-- I’m looking to collaborate on any projects that might need help in HTML, Python, JavaScript, or PHP.
-- I'm an eager programmer, so I'll always do my best in any project I work on.
+Backend Developer | React Native · PHP · Python · JavaScript · MySQL
+Project Lead of OtFit, an AI-powered outfit suggestion app.
+Interested in AI and mobile development. Currently studying Software Engineering.
+Based in Bogotá, Colombia 🇨🇴
 
 <!--
 **AnibalSJ/AnibalSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
